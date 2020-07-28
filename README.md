@@ -4,4 +4,4 @@ Projeto utilizado na primeira avaliação da matéria "CTC42 - Introdução a Cr
 
 Consiste de um algoritmo básico de deslocamento de alfabeto implementado em Python.
 
-Conta apenas com o primeiro commit deste projeto, não foi feito commit da versão final.
+Conta apenas com o primeiro commit deste projeto; não foi feito commit da versão final.
